@@ -20,5 +20,5 @@ This is the codebase for my personal [portfolio website](https://briansantos10.g
 
 Feel free to reach out if you have any questions or feedback:
 
-Email: your-email@example.com
+Email: briancapellan10@gmail.com
 LinkedIn: www.linkedin.com/in/brian-santos8
